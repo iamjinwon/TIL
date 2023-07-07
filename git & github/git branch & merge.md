@@ -35,7 +35,7 @@ git log --all --decorate --oneline --graph #여러브랜치의 내역 편리하�
 - merge : 두 브랜치를 한 커밋에 이어붙임
 - rebase : 브랜치를 다른 브랜치에 이어붙임
 
-<img src="https://1drv.ms/i/s!AowQ-jL0dAJCgZVoDgqILfm_trzHhQ?e=CBKx0T">
+<img src="https://ecellorscrm.files.wordpress.com/2023/05/rebase-and-merge.png">
 
 ## 합치기 명령어
 
