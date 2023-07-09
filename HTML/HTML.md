@@ -60,4 +60,7 @@ HTML 태그 모음(필요할 때 확인용)
 <img src="파일명"> : 이미지
 <input type="" name="" value=""> : 파일 제출 양식
 <input type="submit"> : 제출
+
+HTML 태그 및 속성 모음(필요할 때 확인용)
+: https://heropy.blog/2019/05/26/html-elements/
 ```
