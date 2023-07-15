@@ -4,8 +4,6 @@
 
 ## 목차
 
----
-
 ### 1) VS code
 
 - [VS code](https://github.com/iamjinwon/TIL/blob/main/VS%20code/VS%20code.md)
@@ -25,4 +23,8 @@
 
 ### 4) JAVA script
 
-- [JAVA]()
+- [JAVA script](https://github.com/iamjinwon/TIL/blob/main/JAVA%20script/JAVA%20script.md)
+
+### 5) MySQL
+
+- [MySQL]()
