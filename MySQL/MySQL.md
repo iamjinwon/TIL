@@ -18,7 +18,7 @@
 
 ## 명령어
 
-- \***\*SHOW DATABASES** : 현재 서버에 어떤 DB가 있는지 보기
+- **SHOW DATABASES** : 현재 서버에 어떤 DB가 있는지 보기
 - **USE** : 사용할 데이터베이스 지정
 - **SHOW TABLE, SHOW TABLE STATUS** : 데이터베이스의 테이블 이름 보기
 - **DESCRIBE(DESC)** : 테이블에 무슨 열이 있는지 확인
@@ -35,3 +35,22 @@
 - **LIMIT** : 출력 개수를 제한
 - **GROUP BY** : 그룹으로 묶어주는 역할, 집계 함수 함께 사용
 - **HAVING** : 집계함수에 대해서 조건 제한, WHERE과 비슷한 개념
+- **ROLL UP** : 총합 또는 중간합계가 필요할 경우 사용
+- **JOIN** : 데이터베이스 내의 여러 테이블에서 가져온 레코드를 조합항 하나의 테이블이나 결과 집합으로 표현
+- **MySQL 내장함수**
+  <br>- 문자열 함수
+  <br>- 수학 함수
+  <br>- 날짜와 시간 함수
+- **CREATE TABLE AS SELECT** : 테이블 복사
+- **CREATE DATABASE** : 새로운 데이터베이스 생성
+- **CREATE TABLE** : 새로운 테이블 생성
+- **ALTER TABLE(ADD, MODIFY, DROP)** : 테이블 수정
+- **인덱스** : 테이블에서 원하는 데이터를 빠르게 찾기 위해 사용
+- **DROP INDEX** : ALTER문을 사용하여 테이블에 추가된 인덱스 삭제
+- **VIEW** : 데이터베이스에 존재하는 일종의 가상 테이블
+- **CREATE, ALTER, DROP VIEW**
+- **INSERT** : 테이블에 내용 삽입
+- **UPDATE** : 기존에 입력되어 있는 값 변경
+- **DELETE** : 행 단위로 데이터 삭제하는 구문
+- **TRUNCATE** : 용량이 줄어 들고, 인덱스 등도 모두 삭제
+- **DROP TABLE, DATABASE**

@@ -27,4 +27,4 @@
 
 ### 5) MySQL
 
-- [MySQL]()
+- [MySQL](https://github.com/iamjinwon/TIL/blob/main/MySQL/MySQL.md)
